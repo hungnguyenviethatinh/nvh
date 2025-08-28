@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "EF.PostgresSQL": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
